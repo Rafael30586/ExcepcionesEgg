@@ -1,0 +1,6 @@
+a- c1;c4;c6
+Si la excepción es producida por la sentencia c3, entonces la sentencia c2 se ejecutará después de c1
+
+b- c1;c2;c3;c6
+
+c- c1;c5;c6;throw(e)

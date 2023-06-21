@@ -1,0 +1,4 @@
+a- a1;a2;a6;a5.
+Aclaración: si la excepción se produce por causa de la sentencia a4, entonces se ejecuta a3 depués de a2: a1;a2;a3;a6;a5
+
+b- a1;a2;a3;a4;a5
